@@ -1,0 +1,14 @@
+*{
+    font-family: 'nunito' 'roboto' sans-serif;
+    font-size: 12px;
+}
+body{
+    background-color: white;
+}
+.container{
+    width: 1212px;
+    height: 622px;
+}
+p .flor-petalas{
+    border-radius: 310px 0 0 10px;
+}
