@@ -33,3 +33,7 @@ h2{
 .foto{
     background-color: #efa5b6;
 }
+.imgGato{
+    display: inline-block;
+    width: 50%;
+}
